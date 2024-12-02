@@ -1,0 +1,16 @@
+{
+  "tareas": [
+    {
+      "id": "ej1nh",
+      "nombre": "Sacar al perro",
+      "prioridad": "alta",
+      "finalizada": false
+    },
+    {
+      "id": "d4s3fd",
+      "nombre": "Realizar ejercicio",
+      "prioridad": "media",
+      "finalizada": false
+    }
+  ]
+}
